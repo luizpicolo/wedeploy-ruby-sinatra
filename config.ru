@@ -1,2 +1,3 @@
-require './app'
-run WeDeployApp
+require './app.rb'
+
+run Sinatra::Application
